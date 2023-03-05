@@ -1,4 +1,4 @@
-# Deep Learning
+# Repo: mlis_workshops
 
 A public repository for Machine Learning in Science - II module at University of Nottingham.
 
